@@ -15,4 +15,4 @@ https://mercuryhg007.itch.io/flying-bee-game
 
 ## Screenshots
 
-![](data/screenshots/Untitled.png)
+![](data/screenshots/Untitled1.png)
