@@ -12,3 +12,7 @@ This game is available as Python (.py) Format as well as an Executable (.exe) Fi
 The link to download the setup for .exe file is :
 https://mercuryhg007.itch.io/flying-bee-game
 
+
+## Screenshots
+
+
