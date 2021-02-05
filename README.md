@@ -1,6 +1,9 @@
-## Flying-Bee-Project
+# Flying-Bee-Project
 This is an arcade game similar to the famous arcade game Flappy Bird.
 This game is game using python-pygame.
 Flying Bee was a project that was given to me as a College Assignment werein my teamates were Mayank, Manvi And Kazim.
-This game is 
+
+## Project Formats
+This game is available as Python (.py) Formate as well as an Executable (.exe) File.
+
 https://mercuryhg007.itch.io/flying-bee-game
